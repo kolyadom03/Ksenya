@@ -75,3 +75,78 @@
     margin-left: 550px;
     margin-top: 100px;
 }
+@media(max-width:320px)
+{
+    .nachalo{
+        width: 1620px;
+    }
+    .love{
+        color: red;
+        margin-left: 400px;
+        margin-bottom: 80px;
+        
+    }
+    .lovee{
+        margin-left: 400px;
+        color: rgb(255, 0, 153);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .love1{
+        margin-left: 400px;
+        color: rgb(195, 255, 0);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .love2{
+        margin-left: 440px;
+        color: rgb(0, 225, 255);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .love3{
+        margin-left: 400px;
+        color: rgb(255, 145, 0);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .love4{
+        margin-left: 400px;
+        color: rgb(0, 55, 255);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .love5{
+        margin-left: 300px;
+        color: rgb(255, 0, 0);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .photo1{
+       
+        margin-left: 240px;
+    }
+    .photo2{
+        margin-left: 180px;
+        
+    }
+    .photo3{
+        margin-left: 180px;
+    }
+    .photo4{
+        margin-left: 240px;
+    }
+    .photo5{
+        margin-left: 180px;
+    }
+    .photo6{
+       
+        margin-left: 75px;
+    }
+    .photo7{
+        height: 500px;
+        width: 500px;
+        margin-left: 300px;
+        margin-top: 100px;
+    }
+}
