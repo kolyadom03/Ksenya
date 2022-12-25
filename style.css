@@ -3,6 +3,163 @@ body{
 }
 .love{
     color: red;
+    margin-left: 20px;
+    margin-bottom: 80px;
+    
+}
+.lovee{
+    margin-left: 20px;
+    color: rgb(115, 38, 84);
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.love1{
+    margin-left: 20px;
+    color: rgb(195, 255, 0);
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.love2{
+    margin-left: 20px;
+    color: rgb(0, 225, 255);
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.love3{
+    margin-left: 20px;
+    color: rgb(255, 145, 0);
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.love4{
+    margin-left: 20px;
+    color: rgb(0, 55, 255);
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.love5{
+    margin-left: 20px;
+    color: rgb(255, 0, 0);
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.photo1{
+   
+    margin-left: 10px;
+}
+.photo2{
+    margin-left: 10px;
+    
+}
+.photo3{
+    margin-left: 10px;
+}
+.photo4{
+    margin-left: 10px;
+}
+.photo5{
+    margin-left: 10px;
+}
+.photo6{
+   
+    margin-left: 10px;
+}
+.photo7{
+    height: 500px;
+    width: 500px;
+    margin-left: 10px;
+    margin-top: 100px;
+}
+@media(max-width:3200px)
+{
+    .nachalo{
+        width: 1620px;
+    }
+    .love{
+        color: red;
+        margin-left: 300px;
+        margin-bottom: 80px;
+        
+    }
+    .lovee{
+        margin-left: 300px;
+        color: rgb(255, 0, 153);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .love1{
+        margin-left: 300px;
+        color: rgb(195, 255, 0);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .love2{
+        margin-left: 340px;
+        color: rgb(0, 225, 255);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .love3{
+        margin-left: 300px;
+        color: rgb(255, 145, 0);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .love4{
+        margin-left: 300px;
+        color: rgb(0, 55, 255);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+    .love5{
+        margin-left: 200px;
+        color: rgb(255, 0, 0);
+        margin-bottom: 80px;
+        margin-top: 80px;
+    }
+   
+
+    .photo1{
+        margin-left: 140px;
+        
+    }
+    .photo2{
+        margin-left: 80px;
+        
+    }
+    .photo3{
+        margin-left: 80px;
+    }
+    .photo4{
+        margin-left: 140px;
+    }
+    .photo5{
+        margin-left: 80px;
+    }
+    .photo6{
+       
+        margin-left: -50px;
+    }
+    .photo7{
+        height: 500px;
+        width: 500px;
+        margin-left: 200px;
+        margin-top: 100px;
+    }
+}
+
+
+
+
+
+
+
+
+body{
+    background-color: #ec8ce4;
+}
+.love{
+    color: red;
     margin-left: 600px;
     margin-bottom: 80px;
     
@@ -69,79 +226,4 @@ body{
     width: 500px;
     margin-left: 550px;
     margin-top: 100px;
-}
-@media(max-width:320px)
-{
-    .nachalo{
-        width: 1620px;
-    }
-    .love{
-        color: red;
-        margin-left: 400px;
-        margin-bottom: 80px;
-        
-    }
-    .lovee{
-        margin-left: 400px;
-        color: rgb(255, 0, 153);
-        margin-bottom: 80px;
-        margin-top: 80px;
-    }
-    .love1{
-        margin-left: 400px;
-        color: rgb(195, 255, 0);
-        margin-bottom: 80px;
-        margin-top: 80px;
-    }
-    .love2{
-        margin-left: 440px;
-        color: rgb(0, 225, 255);
-        margin-bottom: 80px;
-        margin-top: 80px;
-    }
-    .love3{
-        margin-left: 400px;
-        color: rgb(255, 145, 0);
-        margin-bottom: 80px;
-        margin-top: 80px;
-    }
-    .love4{
-        margin-left: 400px;
-        color: rgb(0, 55, 255);
-        margin-bottom: 80px;
-        margin-top: 80px;
-    }
-    .love5{
-        margin-left: 300px;
-        color: rgb(255, 0, 0);
-        margin-bottom: 80px;
-        margin-top: 80px;
-    }
-    .photo1{
-       
-        margin-left: 240px;
-    }
-    .photo2{
-        margin-left: 180px;
-        
-    }
-    .photo3{
-        margin-left: 180px;
-    }
-    .photo4{
-        margin-left: 240px;
-    }
-    .photo5{
-        margin-left: 180px;
-    }
-    .photo6{
-       
-        margin-left: 75px;
-    }
-    .photo7{
-        height: 500px;
-        width: 500px;
-        margin-left: 300px;
-        margin-top: 100px;
-    }
 }
