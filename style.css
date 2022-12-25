@@ -1,4 +1,6 @@
-
+body{
+    background-color: #ec8ce4;
+}
 .love{
     color: red;
     margin-left: 600px;
@@ -7,7 +9,7 @@
 }
 .lovee{
     margin-left: 600px;
-    color: rgb(255, 0, 153);
+    color: rgb(115, 38, 84);
     margin-bottom: 80px;
     margin-top: 80px;
 }
